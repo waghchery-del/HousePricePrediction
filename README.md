@@ -22,4 +22,4 @@ House Price dataset with features such as square footage, no. of bathrooms/bedro
 ## 🛠️ Libraries
 `pandas` `scikit-learn` `matplotlib` `seaborn` `numpy`
 
-## 📁 Directory Structure
+
